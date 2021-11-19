@@ -723,6 +723,7 @@ GameObject:
   - component: {fileID: 1577749886}
   - component: {fileID: 1577749885}
   - component: {fileID: 1577749888}
+  - component: {fileID: 1577749889}
   m_Layer: 0
   m_Name: CubeXD
   m_TagString: Untagged
@@ -824,3 +825,18 @@ MonoBehaviour:
   - {r: 0.8396226, g: 0.051486313, b: 0.051486313, a: 0}
   - {r: 0.13705944, g: 0.19061887, b: 0.8301887, a: 0}
   - {r: 0.83137256, g: 0.8175222, b: 0.13725488, a: 0}
+--- !u!114 &1577749889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577749883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c1afb4b572b7b438e5aa25ab2367c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xAngle: 12
+  yAngle: 0
+  zAngle: 0
