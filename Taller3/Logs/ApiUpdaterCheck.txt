@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 18-11-2021 19:52:41 : Starting C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 6164,6323ms
+moved types parse time: 323ms
+candidates parse time : 118ms
+C# parse time         : 3684ms
+candidates check time : 418ms
+console write time    : 20ms
+
+[api-updater (non-obsolete-error-filter)] 18-11-2021 20:00:07 : Starting C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180,0834ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 212ms
+candidates check time : 54ms
+console write time    : 0ms
+
