@@ -648,7 +648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   aRRaycastManager: {fileID: 1394021289}
-  indicator: {fileID: 1114040580}
+  indicator: {fileID: 0}
   objectPrefab: {fileID: 40919614}
 --- !u!4 &223974228
 Transform:
