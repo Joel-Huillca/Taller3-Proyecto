@@ -19,11 +19,15 @@ public class RotacionXY : MonoBehaviour
 
     private Slider scaleSlider;
     private Slider rotateSlider;
+
+    private Slider rotateSliderY; //___
     public float scaleMinValue;
     public float scaleMaxValue;
-    public float rotMinValue;
-    public float rotMaxValue;
+    public float rotMinValueX;
+    public float rotMaxValueX;
 
+    public float rotMinValueY;//___
+    public float rotMaxValueY;//___
 
 
 
@@ -41,12 +45,19 @@ public class RotacionXY : MonoBehaviour
         scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
 
 
-        rotateSlider = GameObject.Find("SliderY").GetComponent<Slider>();
-        rotateSlider.minValue = rotMinValue;
-        rotateSlider.maxValue = rotMaxValue;
+        rotateSlider = GameObject.Find("SliderX").GetComponent<Slider>();
+        rotateSlider.minValue = rotMinValueX;
+        rotateSlider.maxValue = rotMaxValueX;
 
         rotateSlider.onValueChanged.AddListener(RotateSliderUpdate);
 
+        
+        rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();
+        rotateSliderY.minValue = rotMinValueY;
+        rotateSliderY.maxValue = rotMaxValueY;
+
+        rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate_Y);
+        
 
     }
 
@@ -57,9 +68,15 @@ public class RotacionXY : MonoBehaviour
 
     void RotateSliderUpdate(float value)
     {
-        transform.localEulerAngles = new Vector3(transform.rotation.x, value, transform.rotation.z);
+        transform.localEulerAngles = new Vector3(value, transform.rotation.y, transform.rotation.z);
     }
 
+    
+    void RotateSliderUpdate_Y(float value)
+    {
+        transform.localEulerAngles = new Vector3(transform.rotation.x, value, transform.rotation.z);
+    }
+    
 
 
 }
