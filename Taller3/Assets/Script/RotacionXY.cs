@@ -37,7 +37,6 @@ public class RotacionXY : MonoBehaviour
         //initialize the max and min value when starting
         // Add a listener to the slider when value is changed
 
-
         scaleSlider = GameObject.Find("SliderR").GetComponent<Slider>();
         scaleSlider.minValue = scaleMinValue;
         scaleSlider.maxValue = scaleMaxValue;
@@ -49,18 +48,25 @@ public class RotacionXY : MonoBehaviour
         rotateSlider.minValue = rotMinValueX;
         rotateSlider.maxValue = rotMaxValueX;
 
-        rotateSlider.onValueChanged.AddListener(RotateSliderUpdate);
+        rotateSlider.onValueChanged.AddListener(RotateSliderUpdate_Y);
 
         
         rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();
         rotateSliderY.minValue = rotMinValueY;
         rotateSliderY.maxValue = rotMaxValueY;
 
-        rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate_Y);
+        rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate);
+
+        
         
 
     }
 
+    
+
+        
+
+        
     void ScaleSliderUpdate(float value)
     {
         transform.localScale = new Vector3(value, value, value);
@@ -76,6 +82,11 @@ public class RotacionXY : MonoBehaviour
     {
         transform.localEulerAngles = new Vector3(transform.rotation.x, value, transform.rotation.z);
     }
+        
+
+
+    
+
     
 
 
