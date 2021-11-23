@@ -7,7 +7,7 @@ public class CambioColor : MonoBehaviour
     
     public Renderer cubeRenderer;
 
-    public Color[] colors; //Colores aleatorios
+    public Color[] colors; //Se almacena los Colores, los colores aleatorios que se iran colocando
 
     private void Update() 
     {

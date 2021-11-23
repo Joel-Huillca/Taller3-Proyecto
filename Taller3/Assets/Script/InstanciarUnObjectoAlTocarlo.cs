@@ -11,6 +11,7 @@ using UnityEngine.XR.ARSubsystems;
 
 public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
 {
+    public GameObject objectCuadroTxt;//____________"Detectando plano"_____________
     public GameObject objectToPlace;
     public GameObject placementIndicator;
     
@@ -24,6 +25,12 @@ public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
     private void Start()
     {
         _arRaycast = FindObjectOfType<ARRaycastManager>();
+
+
+        
+        //objectCuadroTxt.SetActive(true);
+        //_____________________________________________
+
     }
 
     private void Update()
@@ -32,8 +39,17 @@ public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
         {
             UpdatePlacementPose();
             UpdatePlacementIndicator();
+            
         }
+
+        //_________Solo aparece el cuadro cuando el indicador es desaparece___________
+        objectCuadroTxt.SetActive(true);
+
+        if(_placementPoseIsValid){
+            objectCuadroTxt.SetActive(false);
+        }//____________________________________________________________________________
         
+
         if (_placementPoseIsValid && Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began && !_isPlace)
         {
             PlaceObject();
