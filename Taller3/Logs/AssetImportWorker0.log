@@ -15,11 +15,11 @@ C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56100
+49539
 Successfully changed project path to: C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3
 C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 183.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 159.05 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.16f1 (049d6eca3c44)
 [Subsystems] Discovering subsystems at path C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
@@ -35,5 +35,42 @@ Initialize mono
 Mono path[0] = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
 Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003118 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 23.697 seconds
+Domain Reload Profiling:
+	ReloadAssembly (23698ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (584ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (239ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (66ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (101ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.023597 seconds.
