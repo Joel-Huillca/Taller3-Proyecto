@@ -5,18 +5,6 @@ using UnityEngine.UI;
 
 public class RotacionXY : MonoBehaviour
 {
-    /*
-    private Slider EscalaSlider;
-    private Slider RotacionSlider;
-    private float valorMinEscala;
-    private float valorMaxEscala;
-    private float rotMinEscala;
-    private float rotMaxEscala;
-    */
- 
-   // we need two sliders
-    // we need min and max values of each
-
     private Slider scaleSlider;
     private Slider rotateSlider;
 
@@ -30,56 +18,6 @@ public class RotacionXY : MonoBehaviour
     public float rotMaxValueY;//___
 
 
-
-    void Start()
-    {
-        // find the sliders by name
-        //initialize the max and min value when starting
-        // Add a listener to the slider when value is changed
-
-/*
-        scaleSlider = GameObject.Find("SliderR").GetComponent<Slider>();
-        scaleSlider.minValue = scaleMinValue;
-        scaleSlider.maxValue = scaleMaxValue;
-
-        scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
-
-
-        rotateSlider = GameObject.Find("SliderX").GetComponent<Slider>();
-        rotateSlider.minValue = rotMinValueX;
-        rotateSlider.maxValue = rotMaxValueX;
-
-        rotateSlider.onValueChanged.AddListener(RotateSliderUpdate_Y);
-
-        //rotateSlider.onValueChanged.AddListener();
-        //float value1 = rotateSlider.onValueChanged;
-
-
-        
-        rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();
-        rotateSliderY.minValue = rotMinValueY;
-        rotateSliderY.maxValue = rotMaxValueY;
-
-        rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate);
-    */
-
-
-        //rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate_X_Y_);
-
-        
-        //float value2 = rotateSliderY.onValueChanged;
-
-    }
-    /*
-    void Update() {
-        
-        void RotateSliderUpdate_X_Y_(float rotateSliderY, float rotateSlider)
-        {
-            transform.localEulerAngles = new Vector3(rotateSliderY, rotateSlider, transform.rotation.z);
-        }
-    }
-    
-    */
     void Update() {
         
         scaleSlider = GameObject.Find("SliderR").GetComponent<Slider>();
@@ -94,9 +32,6 @@ public class RotacionXY : MonoBehaviour
         rotateSlider.maxValue = rotMaxValueX;
 
         rotateSlider.onValueChanged.AddListener(RotateSliderUpdate_Y);
-
-        
-
 
         
         rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();

@@ -53,17 +53,20 @@ public class DeteccionPlano : MonoBehaviour
 
 
     /*CUANDO HACEMOS CLIK en la panatalla, INSTANCIAMOS UN OBJETO _-_*/
-   public void SpawnnPrefab()  //++
+   public void SpawnnPrefab()  //Spawn = Aperecer, Instanciar
    {
        if(Input.touchCount > 0)
        {
            Touch touch = Input.GetTouch(0);//touch: El primer dedo que toco la pantalla
 
            if(touch.phase == TouchPhase.Began)
-           {    
+           {
                if (indicator.activeInHierarchy == true)//Instanciamo un elemento si tenemos un punto valido
                {
-                   Instantiate(objectPrefab, this.transform.position, this.transform.rotation);
+                   Instantiate(objectPrefab, this.transform.position, this.transform.rotation);// Instanciar( 1, 2, 3);
+                   //   1= El objecto que vas a instanciar
+                   //   2= Un vector 3 (Ejex,EjeY,Ejez) - this.transform.position= Es la posición del objecto
+                   //   3= La rotación medida con Quaternion (Quaternion.identity = le mandamos una rotacion vacia osea sin rotación)
                    //ObjetPrefab = Es el objeto que se esta movimiendo a medida que vamos apuntando con nuestro celular
                }
            }
