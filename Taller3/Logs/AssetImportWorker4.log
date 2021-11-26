@@ -1,0 +1,2089 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 8098 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\lenovo\Desktop\Proyecto Program. A\Proyectos\PPA-El-18-main\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+56100
+Successfully changed project path to: C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3
+C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectosss/Taller3/Taller3-Proyecto/Taller3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   
+    VRAM:     4049 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56056
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/lenovo/Desktop/Proyecto Program. A/Proyectos/PPA-El-18-main/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002276 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.711 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2711ms)
+		BeginReloadAssembly (57ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (484ms)
+			LoadAssemblies (55ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (172ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (55ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (84ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.488 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1489ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1250ms)
+			LoadAssemblies (144ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (328ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (589ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (52ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (414ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.24 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.4 MB.
+System memory in use after: 104.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2805.
+Total: 4.423300 ms (FindLiveObjects: 0.308200 ms CreateObjectMapping: 0.122000 ms MarkObjects: 3.874800 ms  DeleteObjects: 0.116900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Script/Estado1Activar.cs
+  artifactKey: Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Estado1Activar.cs using Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198a5245159604f001741a56a28b28bc') in 0.429369 seconds 
+  Import took 0.463939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.957576 seconds.
+  path: Assets/Script/Estado1Activar.cs
+  artifactKey: Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Estado1Activar.cs using Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1529ebfb8c782c1a3c4a53427a667b') in 0.006781 seconds 
+  Import took 0.038707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.114540 seconds.
+  path: Assets/Script/Objecto_Desac_Activ.cs
+  artifactKey: Guid(28c7f657cbab42e47a79b39a81df0768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Objecto_Desac_Activ.cs using Guid(28c7f657cbab42e47a79b39a81df0768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4872c87db8d1e4429416f1fbd57f2567') in 0.033020 seconds 
+  Import took 0.068742 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004939 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.608 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1608ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1379ms)
+			LoadAssemblies (134ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (324ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (788ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (654ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.7 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2808.
+Total: 5.246700 ms (FindLiveObjects: 0.361700 ms CreateObjectMapping: 0.301500 ms MarkObjects: 4.544200 ms  DeleteObjects: 0.037500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.344 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1345ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1166ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (419ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (462ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (328ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2810.
+Total: 3.747100 ms (FindLiveObjects: 0.243900 ms CreateObjectMapping: 0.158600 ms MarkObjects: 3.249200 ms  DeleteObjects: 0.094200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 268.058806 seconds.
+  path: Assets/Script/Estado1Activar.cs
+  artifactKey: Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Estado1Activar.cs using Guid(4622a356bb9457348874862fe660868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d4428a6f299746b32f063f6fd9d73f') in 0.013181 seconds 
+  Import took 0.034866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.908147 seconds.
+  path: Assets/Script/RotacionXY.cs
+  artifactKey: Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/RotacionXY.cs using Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77755e19e18410a94502f74faeaf63b1') in 0.030514 seconds 
+  Import took 0.092976 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1256ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1061ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (358ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (419ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (288ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.1 MB.
+System memory in use after: 102.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 4.157600 ms (FindLiveObjects: 0.267800 ms CreateObjectMapping: 0.256800 ms MarkObjects: 3.533500 ms  DeleteObjects: 0.098000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 167.378476 seconds.
+  path: Assets/Script/RotacionXY.cs
+  artifactKey: Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/RotacionXY.cs using Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7644204a8daeca517d7ab8864143aca5') in 0.007609 seconds 
+  Import took 0.025472 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.3 MB.
+System memory in use after: 55.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 4.991900 ms (FindLiveObjects: 0.333400 ms CreateObjectMapping: 0.093900 ms MarkObjects: 4.511700 ms  DeleteObjects: 0.051100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.2 MB.
+System memory in use after: 55.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 4.508500 ms (FindLiveObjects: 0.301900 ms CreateObjectMapping: 0.106500 ms MarkObjects: 4.083100 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 63.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.2 MB.
+System memory in use after: 55.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 4.705700 ms (FindLiveObjects: 0.315400 ms CreateObjectMapping: 0.200000 ms MarkObjects: 4.119800 ms  DeleteObjects: 0.069100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.2 MB.
+System memory in use after: 55.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 4.802600 ms (FindLiveObjects: 0.511200 ms CreateObjectMapping: 0.119100 ms MarkObjects: 4.134600 ms  DeleteObjects: 0.036000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.2 MB.
+System memory in use after: 55.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 6.564500 ms (FindLiveObjects: 0.537700 ms CreateObjectMapping: 0.181700 ms MarkObjects: 5.814700 ms  DeleteObjects: 0.028500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.2 MB.
+System memory in use after: 55.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 5.224800 ms (FindLiveObjects: 0.365300 ms CreateObjectMapping: 0.099500 ms MarkObjects: 4.725100 ms  DeleteObjects: 0.032500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.041129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.325 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4433ms)
+		BeginReloadAssembly (2172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (502ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (3ms)
+			CreateAndSetChildDomain (1099ms)
+		EndReloadAssembly (1855ms)
+			LoadAssemblies (284ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (514ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (755ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (54ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (558ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.8 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2817.
+Total: 3.698900 ms (FindLiveObjects: 0.334800 ms CreateObjectMapping: 0.162600 ms MarkObjects: 3.180500 ms  DeleteObjects: 0.019200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 80.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.1 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2817.
+Total: 3.887100 ms (FindLiveObjects: 0.257100 ms CreateObjectMapping: 0.079400 ms MarkObjects: 3.492600 ms  DeleteObjects: 0.057000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 67.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.1 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2817.
+Total: 4.575800 ms (FindLiveObjects: 0.301700 ms CreateObjectMapping: 0.128900 ms MarkObjects: 4.014300 ms  DeleteObjects: 0.129300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005361 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.548 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1549ms)
+		BeginReloadAssembly (222ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (1222ms)
+			LoadAssemblies (183ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (374ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (475ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (137ms)
+				ProcessInitializeOnLoadAttributes (318ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2820.
+Total: 3.818000 ms (FindLiveObjects: 0.346600 ms CreateObjectMapping: 0.106900 ms MarkObjects: 3.344700 ms  DeleteObjects: 0.018400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4272.914817 seconds.
+  path: Assets/Script/Objecto_Desac_Activ.cs
+  artifactKey: Guid(28c7f657cbab42e47a79b39a81df0768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Objecto_Desac_Activ.cs using Guid(28c7f657cbab42e47a79b39a81df0768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf65e7918021d9ccc9acdabec11e33a') in 0.031230 seconds 
+  Import took 0.063944 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.1 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2820.
+Total: 4.635700 ms (FindLiveObjects: 0.289600 ms CreateObjectMapping: 0.140900 ms MarkObjects: 4.170200 ms  DeleteObjects: 0.033400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 411.960469 seconds.
+  path: Assets/Script/RotacionXY.cs
+  artifactKey: Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/RotacionXY.cs using Guid(ba6265477dfdb1542a3814f67f8f75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba27494ffc94780c298a01cd2e51cba') in 0.004314 seconds 
+  Import took 0.032055 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.038148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.384 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1384ms)
+		BeginReloadAssembly (177ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (103ms)
+		EndReloadAssembly (1140ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (309ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (503ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (139ms)
+				ProcessInitializeOnLoadAttributes (346ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.9 MB.
+System memory in use after: 102.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 3.938100 ms (FindLiveObjects: 0.255700 ms CreateObjectMapping: 0.126100 ms MarkObjects: 3.521500 ms  DeleteObjects: 0.033400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.1 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 4.204400 ms (FindLiveObjects: 0.453000 ms CreateObjectMapping: 0.129700 ms MarkObjects: 3.585100 ms  DeleteObjects: 0.035300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 726.488017 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/pot_large.png
+  artifactKey: Guid(11ea4bbaee7297a4287b79f05d5e3433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/pot_large.png using Guid(11ea4bbaee7297a4287b79f05d5e3433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadfdad6396e6f1e967a0bb6e60a4f56') in 1.641643 seconds 
+  Import took 1.668706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040717 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_cone.png
+  artifactKey: Guid(09792031b63b36143b40c4edc0d1a774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_cone.png using Guid(09792031b63b36143b40c4edc0d1a774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc65a60358ebd38874b6979f5825dcd8') in 0.211246 seconds 
+  Import took 0.215694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_detailed_fall.png
+  artifactKey: Guid(1be240b6bba3bab4c935d8327acacfb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_detailed_fall.png using Guid(1be240b6bba3bab4c935d8327acacfb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e97a0492b50fb9bea933f9df670e9c8') in 0.177995 seconds 
+  Import took 0.192099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallA_detailed.png
+  artifactKey: Guid(e6cf22f60984b374098d5bbe850f1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallA_detailed.png using Guid(e6cf22f60984b374098d5bbe850f1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51077e2e540cb8a1e7c04e79b621879a') in 0.507233 seconds 
+  Import took 0.519074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palmDetailedTall.png
+  artifactKey: Guid(26f4027b4f7dc0f459f3ee2cca19a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palmDetailedTall.png using Guid(26f4027b4f7dc0f459f3ee2cca19a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334e37ee929b19c54cf7e21f6421c1d4') in 0.261799 seconds 
+  Import took 0.284482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_tall.png
+  artifactKey: Guid(e3ff7ab67e1e9d94c95ac11a463fc09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_tall.png using Guid(e3ff7ab67e1e9d94c95ac11a463fc09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aab28e46481d44d9aa935e40254b6af') in 0.077294 seconds 
+  Import took 0.115424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_small.png
+  artifactKey: Guid(ca7ecd1c8f331b240a9fda70ee6e7617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_small.png using Guid(ca7ecd1c8f331b240a9fda70ee6e7617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea96a81ed8bc80bdfc60db042ec1056') in 0.075470 seconds 
+  Import took 0.106578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_head.png
+  artifactKey: Guid(f9b109aded90987418e139a4b48ec894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_head.png using Guid(f9b109aded90987418e139a4b48ec894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82115921f7f35cf92e6d2dda9d8916b1') in 0.082182 seconds 
+  Import took 0.085859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_detailed.png
+  artifactKey: Guid(0b2beb2b8e4622d4295851af8b5c868f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_detailed.png using Guid(0b2beb2b8e4622d4295851af8b5c868f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb3d6b2f7c10737d95859eb216666e1') in 0.142309 seconds 
+  Import took 0.160167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_plateau_dark.png
+  artifactKey: Guid(c9ef2014d3c412e409cae47df925e943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_plateau_dark.png using Guid(c9ef2014d3c412e409cae47df925e943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da42d35c0eab42b8dc3e8b4b7fc3f68') in 0.190294 seconds 
+  Import took 0.225488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_tall_fall.png
+  artifactKey: Guid(8d2746cc6bcccd84e86b29a8e68d191e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_tall_fall.png using Guid(8d2746cc6bcccd84e86b29a8e68d191e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50061b4e8ce61d0be6ce1f994004aeb6') in 0.064470 seconds 
+  Import took 0.068055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tent_smallOpen.png
+  artifactKey: Guid(663ce20946a99434b8218e319079301d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tent_smallOpen.png using Guid(663ce20946a99434b8218e319079301d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a99f4149c96581fb68ab9361e9aa80') in 0.079190 seconds 
+  Import took 0.094440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallA.png
+  artifactKey: Guid(b520b597e43840f4ab08bb1341ed7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallA.png using Guid(b520b597e43840f4ab08bb1341ed7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fedb2e6099dd0d22370030133a1422') in 0.065550 seconds 
+  Import took 0.088665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_small_dark.png
+  artifactKey: Guid(15478785c43013844b8224d9b36265d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_small_dark.png using Guid(15478785c43013844b8224d9b36265d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00665df057a25ec20d0d6fdb47d49c56') in 0.040874 seconds 
+  Import took 0.045527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palmShort.png
+  artifactKey: Guid(8dc81d9ae94d9bf4b9f79daa375a1c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palmShort.png using Guid(8dc81d9ae94d9bf4b9f79daa375a1c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9a96831c1fc8fffd2299fd06350554') in 0.061894 seconds 
+  Import took 0.091769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_thin_fall.png
+  artifactKey: Guid(f5fb82a568cb46744b7dcd795f23d8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_thin_fall.png using Guid(f5fb82a568cb46744b7dcd795f23d8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2d5d5d25ffc40273474edc61ae50eb') in 0.075007 seconds 
+  Import took 0.089516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallTopB.png
+  artifactKey: Guid(04a1a184115b2df45a6e9bc6bcf9460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallTopB.png using Guid(04a1a184115b2df45a6e9bc6bcf9460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c947d2aa985b3933af0e5a5c6e06f427') in 0.089206 seconds 
+  Import took 0.118557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palmDetailedShort.png
+  artifactKey: Guid(373829f2bdb6c1a4a8fe2a8133d4bfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palmDetailedShort.png using Guid(373829f2bdb6c1a4a8fe2a8133d4bfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d2ed6ee243168ac72c24fafeea1380') in 0.121248 seconds 
+  Import took 0.125623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palmTall.png
+  artifactKey: Guid(40d8d139108b71a4287d0d9a919b57ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palmTall.png using Guid(40d8d139108b71a4287d0d9a919b57ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1f5f035911c3326522227e493977da') in 0.097558 seconds 
+  Import took 0.107649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallB.png
+  artifactKey: Guid(185b4545ada463b4bac0bc29e0b641d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallB.png using Guid(185b4545ada463b4bac0bc29e0b641d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74bdfa676443ca738cb5e61b741891a') in 0.064858 seconds 
+  Import took 0.108647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundB.png
+  artifactKey: Guid(48f11225ee351d740ba1be3b68102dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundB.png using Guid(48f11225ee351d740ba1be3b68102dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5e2315043248958ffcaab8ef6cb857') in 0.084212 seconds 
+  Import took 0.111215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_oak.png
+  artifactKey: Guid(824c42dad7affc94896db1bcf4b1a791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_oak.png using Guid(824c42dad7affc94896db1bcf4b1a791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af067e52b79f07d08e146976bf6c6358') in 0.115835 seconds 
+  Import took 0.120473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallH.png
+  artifactKey: Guid(e8007bd9dda4cec49ad4d70c0b378528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallH.png using Guid(e8007bd9dda4cec49ad4d70c0b378528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f3597e4601faa94467531ac9aad3d8') in 0.060667 seconds 
+  Import took 0.064784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000708 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallA.png
+  artifactKey: Guid(a73d7563de7835f4ba1063d6a7415fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallA.png using Guid(a73d7563de7835f4ba1063d6a7415fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6a36e1ba9ec1fe3606b0ff67b14a7d') in 0.096492 seconds 
+  Import took 0.107668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallI.png
+  artifactKey: Guid(8b5a5312f795b6345a9ebe4737109b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallI.png using Guid(8b5a5312f795b6345a9ebe4737109b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa3f8c2c2f298d63bd866f60caae9db') in 0.119505 seconds 
+  Import took 0.150380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallF.png
+  artifactKey: Guid(91f33f62137964f43ada7a992c9de460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallF.png using Guid(91f33f62137964f43ada7a992c9de460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59158d035faa327c83df513a3b99c650') in 0.087040 seconds 
+  Import took 0.109684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/pot_small.png
+  artifactKey: Guid(14de09308e7b1ed4dac09bf9c43a3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/pot_small.png using Guid(14de09308e7b1ed4dac09bf9c43a3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c113356a16cff4283390e6a7f0034fd9') in 0.063200 seconds 
+  Import took 0.079475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineSmallA.png
+  artifactKey: Guid(0ddda5d6a8ece594fa9eb378ce18cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineSmallA.png using Guid(0ddda5d6a8ece594fa9eb378ce18cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e1cdc6817d833996aca0f32ce15f6d') in 0.096584 seconds 
+  Import took 0.100915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_squareDetailed.png
+  artifactKey: Guid(6a9c9d3250edfcd458d601d4f5f94e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_squareDetailed.png using Guid(6a9c9d3250edfcd458d601d4f5f94e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b2448abf1bc6f1979e1fd3d62bdd28') in 0.085926 seconds 
+  Import took 0.115588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeB.png
+  artifactKey: Guid(811bf73d2cef9364b9b832e7b9ca0d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeB.png using Guid(811bf73d2cef9364b9b832e7b9ca0d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568e6ed261d446da794b6c25b197b054') in 0.102902 seconds 
+  Import took 0.126317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundA.png
+  artifactKey: Guid(0353d39651dc11b45895f9ee72f9ac06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundA.png using Guid(0353d39651dc11b45895f9ee72f9ac06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377d37b7f1ae541a7313b03a7f6edda5') in 0.097606 seconds 
+  Import took 0.119063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallC.png
+  artifactKey: Guid(204376d0254d711469c7125782cbeace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallC.png using Guid(204376d0254d711469c7125782cbeace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1f553d71816cc68cab204b07606698') in 0.056207 seconds 
+  Import took 0.072651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallB.png
+  artifactKey: Guid(e441d07da1183e344bd6ad27a28072f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallB.png using Guid(e441d07da1183e344bd6ad27a28072f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dddb3320fde07032b64a2bd0addb335e') in 0.058725 seconds 
+  Import took 0.085899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_fat_fall.png
+  artifactKey: Guid(ef044852e51378749abde53f2bb70a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_fat_fall.png using Guid(ef044852e51378749abde53f2bb70a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3595f17796a896d48223d6e210236db') in 0.107533 seconds 
+  Import took 0.111608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_oak_fall.png
+  artifactKey: Guid(c9b8eece9e451474b9ad1b25d4174b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_oak_fall.png using Guid(c9b8eece9e451474b9ad1b25d4174b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e6cdbebde5c4e90579d698335ee0ae') in 0.044644 seconds 
+  Import took 0.051661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000759 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallH.png
+  artifactKey: Guid(9e5c7b7d3c0f5504e8cd774d479661b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallH.png using Guid(9e5c7b7d3c0f5504e8cd774d479661b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fd249afa564a699f36686c509e0c64') in 0.105172 seconds 
+  Import took 0.138031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallF.png
+  artifactKey: Guid(2089f3be975aa294694f6a4d20c6afcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallF.png using Guid(2089f3be975aa294694f6a4d20c6afcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4fad2e88876e76fecdff6aa32ffc2c') in 0.109809 seconds 
+  Import took 0.143753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_thin_dark.png
+  artifactKey: Guid(72352c01f7f2f68448737f63eca5f852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_thin_dark.png using Guid(72352c01f7f2f68448737f63eca5f852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1680080c9a8426c31739dfc22411b3be') in 0.067210 seconds 
+  Import took 0.081544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_columnDamaged.png
+  artifactKey: Guid(e5b525c503cd0c04fac6745f30647ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_columnDamaged.png using Guid(e5b525c503cd0c04fac6745f30647ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b1234b1d153791088453f4a3be0228') in 0.087543 seconds 
+  Import took 0.091482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineGroundB.png
+  artifactKey: Guid(c41e70951668b134aab766f5f575b788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineGroundB.png using Guid(c41e70951668b134aab766f5f575b788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53421421f2b87666cdbff04adb9981a9') in 0.088267 seconds 
+  Import took 0.114345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallTopA.png
+  artifactKey: Guid(a6090df3db9ed2444af6dfa4a0dde167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallTopA.png using Guid(a6090df3db9ed2444af6dfa4a0dde167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bb283c3530de3a2844aaa4b62a4b08') in 0.065173 seconds 
+  Import took 0.090305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_cone_fall.png
+  artifactKey: Guid(1bcb55196e53f2140947b9fc94fdc6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_cone_fall.png using Guid(1bcb55196e53f2140947b9fc94fdc6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96bebbc67eb077e22dd9308c598b0ab') in 0.059806 seconds 
+  Import took 0.090408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeE.png
+  artifactKey: Guid(e15b4a239e257854990c8116155ebc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeE.png using Guid(e15b4a239e257854990c8116155ebc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc0fa16c3c679ee6f46d694dd9caa2b') in 0.096880 seconds 
+  Import took 0.119202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineSmallB.png
+  artifactKey: Guid(57954851744c91442bbae09b082d516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineSmallB.png using Guid(57954851744c91442bbae09b082d516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dbb5bb1d5dbb052ac50ed8830654bc0') in 0.059818 seconds 
+  Import took 0.086006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_default.png
+  artifactKey: Guid(54f7080c148ece748a3ddced4ec3a1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_default.png using Guid(54f7080c148ece748a3ddced4ec3a1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0006a8d019563980b9f664ea70e33feb') in 0.114073 seconds 
+  Import took 0.137320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallG.png
+  artifactKey: Guid(64d1bfadec4bdb54ab1fbfd38e8ca5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallG.png using Guid(64d1bfadec4bdb54ab1fbfd38e8ca5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3880642d63f3ca9ebe40b14ebb85438b') in 0.158442 seconds 
+  Import took 0.194655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_square.png
+  artifactKey: Guid(2e7b8ca5d1a5cc54f803a195bb864db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_square.png using Guid(2e7b8ca5d1a5cc54f803a195bb864db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33721782023d5be4606675556238123e') in 0.067693 seconds 
+  Import took 0.072962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallC_detailed.png
+  artifactKey: Guid(257ccdca11f8b06489d1e3b78a5dc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallC_detailed.png using Guid(257ccdca11f8b06489d1e3b78a5dc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38f52924c92f7d26cef253524ae0e38') in 0.072839 seconds 
+  Import took 0.077198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallG.png
+  artifactKey: Guid(ab482934faf67d7418e90644930b9c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallG.png using Guid(ab482934faf67d7418e90644930b9c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcbf2fb48894711c47e6137bf1abce3e') in 0.071744 seconds 
+  Import took 0.077493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallB.png
+  artifactKey: Guid(d95b08fffdfb61c4bbac3f654fe6d3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallB.png using Guid(d95b08fffdfb61c4bbac3f654fe6d3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c3dfc8f2c7fc35d0fd89283fb14c37') in 0.123749 seconds 
+  Import took 0.127920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_blocks_dark.png
+  artifactKey: Guid(44e02ea4313ce2440805ee555d413623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_blocks_dark.png using Guid(44e02ea4313ce2440805ee555d413623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1f26a18908622f7a44f800c42cb3c6') in 0.067823 seconds 
+  Import took 0.071980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundE.png
+  artifactKey: Guid(793a39f3631b660409614d81de3add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundE.png using Guid(793a39f3631b660409614d81de3add6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aef93c47795423e9e528689850c47a4') in 0.048768 seconds 
+  Import took 0.052739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallF.png
+  artifactKey: Guid(020eae9e34fbd3345b7745f3fe62e83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallF.png using Guid(020eae9e34fbd3345b7745f3fe62e83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd6c5c4d6cbf420cc571ff2ad2c6056') in 0.096666 seconds 
+  Import took 0.127887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004025 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_default_fall.png
+  artifactKey: Guid(3ff63da9f953b714a96b9f29d7fe0b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_default_fall.png using Guid(3ff63da9f953b714a96b9f29d7fe0b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712de2a91add50f01378c72908b12940') in 0.087032 seconds 
+  Import took 0.099653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallFlatA.png
+  artifactKey: Guid(008029fde65fa93459c69a17841b6533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallFlatA.png using Guid(008029fde65fa93459c69a17841b6533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdad46b5e0359901711934d4f473242f') in 0.054872 seconds 
+  Import took 0.085120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_obelisk.png
+  artifactKey: Guid(a13de2a009f9485428a3e82b09142e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_obelisk.png using Guid(a13de2a009f9485428a3e82b09142e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c176df334eb976c8d8dc38e5e1526d') in 0.089538 seconds 
+  Import took 0.093890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeA.png
+  artifactKey: Guid(11f773e87dd7c8a46b55cae0b570a6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeA.png using Guid(11f773e87dd7c8a46b55cae0b570a6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854c4a996cb163d5bb3a1245a7ef0029') in 0.107220 seconds 
+  Import took 0.131337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundD.png
+  artifactKey: Guid(f31a427cb5639f34fae439331e77bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundD.png using Guid(f31a427cb5639f34fae439331e77bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afedc84a1edd68cc1a778f48a643a43') in 0.036746 seconds 
+  Import took 0.042310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallC.png
+  artifactKey: Guid(e57ba2d583b1f8745b6384b28f541c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallC.png using Guid(e57ba2d583b1f8745b6384b28f541c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfd55d63e618947a063820739f6350d') in 0.058056 seconds 
+  Import took 0.076178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeF.png
+  artifactKey: Guid(c950c04d48126d84089190d39c2975e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeF.png using Guid(c950c04d48126d84089190d39c2975e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ef7931c483041c8f7c8d863625ce9f5') in 0.076313 seconds 
+  Import took 0.080965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallC.png
+  artifactKey: Guid(9425efc4863347441b7f5dacfab44b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallC.png using Guid(9425efc4863347441b7f5dacfab44b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eace61009501ed032a070e200615265') in 0.063186 seconds 
+  Import took 0.070053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeB.png
+  artifactKey: Guid(ad3e084f007b17b4699d42c9826816b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeB.png using Guid(ad3e084f007b17b4699d42c9826816b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b52354a986d6348032acb7e8e134399') in 0.079744 seconds 
+  Import took 0.093529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tent_detailedClosed.png
+  artifactKey: Guid(14fd2f03fafa3b24f96f186cb28c6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tent_detailedClosed.png using Guid(14fd2f03fafa3b24f96f186cb28c6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0403e7c2b9ec642ad568fedbe0b1d1') in 0.069933 seconds 
+  Import took 0.099598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_default_dark.png
+  artifactKey: Guid(6fc9177fbf79e474081b3401413f2bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_default_dark.png using Guid(6fc9177fbf79e474081b3401413f2bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4d02826922a500acb1b52b1bb8d799') in 0.038904 seconds 
+  Import took 0.058426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallC.png
+  artifactKey: Guid(389a7832dc70c864fb6b260060fe03e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallC.png using Guid(389a7832dc70c864fb6b260060fe03e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6977afe65918fabd154c42524ffd86b') in 0.041286 seconds 
+  Import took 0.049685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_squareDetailedWide.png
+  artifactKey: Guid(c5ddcd5906b82ce4b95f96df56e067f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_squareDetailedWide.png using Guid(c5ddcd5906b82ce4b95f96df56e067f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f1f9fd2c10722e9dfccb67fa85e733') in 0.051095 seconds 
+  Import took 0.070205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_blocks_fall.png
+  artifactKey: Guid(c879491304f41b14da030685f9d60b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_blocks_fall.png using Guid(c879491304f41b14da030685f9d60b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a21aecf864b9504cb737cfd2fc1edb8') in 0.061205 seconds 
+  Import took 0.064742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_simple.png
+  artifactKey: Guid(ec5cd550a78c43940a3189fa9a8a29a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_simple.png using Guid(ec5cd550a78c43940a3189fa9a8a29a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59aa4353c027c9cd2fc4f7a1a2ef4ecf') in 0.052539 seconds 
+  Import took 0.056562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_oak_dark.png
+  artifactKey: Guid(05d9872bd29cecf4eba82902fa1de642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_oak_dark.png using Guid(05d9872bd29cecf4eba82902fa1de642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6930e4ea41a352e6fc3e0ee11a6211') in 0.088653 seconds 
+  Import took 0.113951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_tall_dark.png
+  artifactKey: Guid(ee8802d1af55167479f787dc2733658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_tall_dark.png using Guid(ee8802d1af55167479f787dc2733658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3485295ca3c8199b835cfd5d4ed5ade8') in 0.046055 seconds 
+  Import took 0.065348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeD.png
+  artifactKey: Guid(9b4987be76a065d4586d46f65fa03576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeD.png using Guid(9b4987be76a065d4586d46f65fa03576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4827563ea1225d2858b6e7c6d25a2ef6') in 0.082396 seconds 
+  Import took 0.109310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tent_smallClosed.png
+  artifactKey: Guid(93d2ea87e5362484d95c3c214a3ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tent_smallClosed.png using Guid(93d2ea87e5362484d95c3c214a3ab3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb3d87d56bd45b8c649cbeb0417f451') in 0.041863 seconds 
+  Import took 0.061944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_cone_dark.png
+  artifactKey: Guid(a7c5fc021070e5041ae3fcb764553664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_cone_dark.png using Guid(a7c5fc021070e5041ae3fcb764553664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40893f145303720213055a4cd745b1f') in 0.067538 seconds 
+  Import took 0.071473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeA.png
+  artifactKey: Guid(89af1daac6e1a9a4a9ecb0085bc3869d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeA.png using Guid(89af1daac6e1a9a4a9ecb0085bc3869d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aefd3e4b03072e95af0a225ae6fb2d7') in 0.050313 seconds 
+  Import took 0.055126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallFlatC.png
+  artifactKey: Guid(4120dfda847b62a4fbcacfdb0e3060de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallFlatC.png using Guid(4120dfda847b62a4fbcacfdb0e3060de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e83df7c593c0c23cea849347098d24b') in 0.077545 seconds 
+  Import took 0.082195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_detailed_dark.png
+  artifactKey: Guid(1f1fcb57b38b045409307310c0d18635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_detailed_dark.png using Guid(1f1fcb57b38b045409307310c0d18635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75712ed03a296dc9a0a3a4dcecad1a65') in 0.049923 seconds 
+  Import took 0.053605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallB.png
+  artifactKey: Guid(6aa54ac3e3873ec4e9305c9bb787e12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallB.png using Guid(6aa54ac3e3873ec4e9305c9bb787e12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f9f845f9b7052844caefdef963a4d0') in 0.050847 seconds 
+  Import took 0.072276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_block.png
+  artifactKey: Guid(62da10d8ae08dc14f8c30d8890843e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_block.png using Guid(62da10d8ae08dc14f8c30d8890843e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9097148c736753f8d32f58522574860a') in 0.087519 seconds 
+  Import took 0.116878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallC.png
+  artifactKey: Guid(f0cb0a9570bf82948ba22639cdfc1c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallC.png using Guid(f0cb0a9570bf82948ba22639cdfc1c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a1c8c76e02577858654752d3fe0707') in 0.089313 seconds 
+  Import took 0.092993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallD.png
+  artifactKey: Guid(d2f3649fd195cb7418ff0f0e5a474317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallD.png using Guid(d2f3649fd195cb7418ff0f0e5a474317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7b8fed1313ad6dde2e4d9ae38965b3') in 0.065936 seconds 
+  Import took 0.101528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_blocks.png
+  artifactKey: Guid(d7cc6c49b49b87a44ac326ef71369143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_blocks.png using Guid(d7cc6c49b49b87a44ac326ef71369143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bb499f42c197b9df8285e6ea7b514f') in 0.040682 seconds 
+  Import took 0.054117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallF.png
+  artifactKey: Guid(3f01a8e44bc34984bb36cbc015175c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallF.png using Guid(3f01a8e44bc34984bb36cbc015175c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b02f360c0f3119aa3ff68ec8587cb4d') in 0.084321 seconds 
+  Import took 0.109876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallTopA.png
+  artifactKey: Guid(0a620b26efcf54c478e6f2b25dbc1634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallTopA.png using Guid(0a620b26efcf54c478e6f2b25dbc1634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca4c273a3d13492c87c3dda791b2287') in 0.082311 seconds 
+  Import took 0.110909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallE.png
+  artifactKey: Guid(20d6e0ecfc9df094fb275d36523254c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallE.png using Guid(20d6e0ecfc9df094fb275d36523254c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ba4675b06476178e994e4c813ad1c5') in 0.096272 seconds 
+  Import took 0.134845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palmBend.png
+  artifactKey: Guid(e3f80e59b243134408796a9d1dedb655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palmBend.png using Guid(e3f80e59b243134408796a9d1dedb655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47d957fa9ffca54d047351741e24be3') in 0.038215 seconds 
+  Import took 0.042785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallI.png
+  artifactKey: Guid(26f655070055cef48b78f5cdf5688401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallI.png using Guid(26f655070055cef48b78f5cdf5688401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9079f5ac7cab99611b89ef5e702d4039') in 0.041683 seconds 
+  Import took 0.045778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_palm.png
+  artifactKey: Guid(a8b7b1c2cef735740a899f69c9dd9369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_palm.png using Guid(a8b7b1c2cef735740a899f69c9dd9369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15a12f613e75bdf0ac0855c725d6d86') in 0.084949 seconds 
+  Import took 0.109483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineDefaultB.png
+  artifactKey: Guid(244b7b72f89ec3247a8a562e6fe30380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineDefaultB.png using Guid(244b7b72f89ec3247a8a562e6fe30380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2bd8a9660ea9eaea93143fd482b06a') in 0.066970 seconds 
+  Import took 0.087252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundC.png
+  artifactKey: Guid(afa2f57b77f83224287d29e40ebd6835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundC.png using Guid(afa2f57b77f83224287d29e40ebd6835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4612f41eba572e8ab08590daeb0bafd') in 0.086472 seconds 
+  Import took 0.090437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_oldTall.png
+  artifactKey: Guid(9438942894706e94b9aa4d2931dcf72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_oldTall.png using Guid(9438942894706e94b9aa4d2931dcf72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2279986f100af4b13b0f9b7ad4e2fc7f') in 0.082718 seconds 
+  Import took 0.119358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_old.png
+  artifactKey: Guid(90c78d494ff59c94cab1a4f6cc1f1bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_old.png using Guid(90c78d494ff59c94cab1a4f6cc1f1bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b9fd4b74e51df69e58026caed72bb0') in 0.056465 seconds 
+  Import took 0.060869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineRoundF.png
+  artifactKey: Guid(eb153a46cdaca9646ac63fe41fa4972d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineRoundF.png using Guid(eb153a46cdaca9646ac63fe41fa4972d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89fc8ad0a4b1448086dfd7cc18efa584') in 0.113364 seconds 
+  Import took 0.116905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_small_fall.png
+  artifactKey: Guid(96c974866c1a6564d904c8c71a4eef10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_small_fall.png using Guid(96c974866c1a6564d904c8c71a4eef10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267b69cc609a9b59f343a173f389acb4') in 0.044856 seconds 
+  Import took 0.060845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_round.png
+  artifactKey: Guid(dcbbfbacbe9310042b288b35b078a82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_round.png using Guid(dcbbfbacbe9310042b288b35b078a82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baacf9ba8d993bcf38c1d9eaa30b73e8') in 0.052369 seconds 
+  Import took 0.071940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallD.png
+  artifactKey: Guid(dc7bce611606c0c44a88b5988f148e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallD.png using Guid(dc7bce611606c0c44a88b5988f148e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec9f5b9c4343818e2f79837b9846d45') in 0.053480 seconds 
+  Import took 0.057457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_largeC.png
+  artifactKey: Guid(2425ee36dd1da524784dd5f0a0f5f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_largeC.png using Guid(2425ee36dd1da524784dd5f0a0f5f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a02ab9daeb8a0794a2d4ded57d779d') in 0.050667 seconds 
+  Import took 0.076188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineSmallD.png
+  artifactKey: Guid(e25d8bac7dd80ea4a9d769e5221e66cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineSmallD.png using Guid(e25d8bac7dd80ea4a9d769e5221e66cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa580a5cd27e1cc1b510c917a246b8f') in 0.060661 seconds 
+  Import took 0.090194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeC.png
+  artifactKey: Guid(02d38a42eeed45e4294dddb58393e5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeC.png using Guid(02d38a42eeed45e4294dddb58393e5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54aede0fc4b8293475ba22f87ed78423') in 0.049815 seconds 
+  Import took 0.085816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallD.png
+  artifactKey: Guid(8cca8adbf46adf64493d69a7effa967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallD.png using Guid(8cca8adbf46adf64493d69a7effa967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50ab38819dabfa85df1d740a97136878') in 0.055357 seconds 
+  Import took 0.059644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallJ.png
+  artifactKey: Guid(8cc0f3d4d5a67cf48b7148d01f9aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallJ.png using Guid(8cc0f3d4d5a67cf48b7148d01f9aaac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169b1abad92a1bef24291f0c022508b0') in 0.088337 seconds 
+  Import took 0.094586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tent_detailedOpen.png
+  artifactKey: Guid(a7a82154d943e5343b3eb69229a5812a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tent_detailedOpen.png using Guid(a7a82154d943e5343b3eb69229a5812a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaefff615e06a3882d3a0cdaa378b5af') in 0.053585 seconds 
+  Import took 0.080263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallJ.png
+  artifactKey: Guid(cde03aa0d935d6d43bb0297a9f8dfc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallJ.png using Guid(cde03aa0d935d6d43bb0297a9f8dfc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbfbafd500e539873c52d1e54628714') in 0.044778 seconds 
+  Import took 0.049896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallA.png
+  artifactKey: Guid(1d4b69be8c74ee6469b766cd23a8b227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallA.png using Guid(1d4b69be8c74ee6469b766cd23a8b227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0f33838677409cee3ca0d15ebbf9bd') in 0.044967 seconds 
+  Import took 0.070086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_simple_dark.png
+  artifactKey: Guid(b0db7dc243ae3e540bf6a3fabc40171b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_simple_dark.png using Guid(b0db7dc243ae3e540bf6a3fabc40171b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c749ea6cb533ab05d3b1c926b53483') in 0.071364 seconds 
+  Import took 0.075039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineSmallC.png
+  artifactKey: Guid(ea889e083d3b4404ab53463cbacd0636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineSmallC.png using Guid(ea889e083d3b4404ab53463cbacd0636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4353e63964e6a0e2644ce4f235c9e9') in 0.043681 seconds 
+  Import took 0.059856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallTopB.png
+  artifactKey: Guid(b64f798aa4970b84fb5fe6ca3e8dd0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallTopB.png using Guid(b64f798aa4970b84fb5fe6ca3e8dd0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f343933eee5b29be8432fb183084bd') in 0.052042 seconds 
+  Import took 0.067268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_simple_fall.png
+  artifactKey: Guid(97bdb182fa40ac845b54d17d0864e260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_simple_fall.png using Guid(97bdb182fa40ac845b54d17d0864e260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f311ede5e755ea8bd65ab0b87be16e86') in 0.063372 seconds 
+  Import took 0.067768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallD_detailed.png
+  artifactKey: Guid(8e2a91412dd69ad4080ec68f31929d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallD_detailed.png using Guid(8e2a91412dd69ad4080ec68f31929d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8dfd9149e6bdb6393447a062c42be7') in 0.092055 seconds 
+  Import took 0.107903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallH.png
+  artifactKey: Guid(8d588a8f62d17ca46a12065a81ded756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallH.png using Guid(8d588a8f62d17ca46a12065a81ded756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60486cf58a47e3901a2cff1ef3d41ce') in 0.065712 seconds 
+  Import took 0.071227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallB_detailed.png
+  artifactKey: Guid(b038cea95cb44b7448326cc4f1b3c68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallB_detailed.png using Guid(b038cea95cb44b7448326cc4f1b3c68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64431d2f06c176035bb4d672879ac02a') in 0.044207 seconds 
+  Import took 0.048383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallG.png
+  artifactKey: Guid(440044ac0f273c14eb18daaf827d724e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallG.png using Guid(440044ac0f273c14eb18daaf827d724e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a085756cde2e42a511daa23648da9751') in 0.039599 seconds 
+  Import took 0.045103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallA.png
+  artifactKey: Guid(04d01ea75d6462e4d896a4d63725ce2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallA.png using Guid(04d01ea75d6462e4d896a4d63725ce2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df28db404ea5afeeb22cca638d5931ad') in 0.079641 seconds 
+  Import took 0.094024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallFlatB.png
+  artifactKey: Guid(473173154ea68f24ebfc5459a8c7fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallFlatB.png using Guid(473173154ea68f24ebfc5459a8c7fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743c7bd8d75ce657e5466ca9efccf33c') in 0.080208 seconds 
+  Import took 0.084199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallE.png
+  artifactKey: Guid(78cb1a15635b9c64ca105011d816bd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallE.png using Guid(78cb1a15635b9c64ca105011d816bd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b7152267aa83abe7f07f7fcd31f1c7') in 0.041134 seconds 
+  Import took 0.047426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeF.png
+  artifactKey: Guid(fe2ee9b963f5d0d49b3680882440b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeF.png using Guid(fe2ee9b963f5d0d49b3680882440b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88114ddd91a43975df47de5d3f64172') in 0.070226 seconds 
+  Import took 0.099667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallD.png
+  artifactKey: Guid(9855f56861ada7c49882e619f32f33be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallD.png using Guid(9855f56861ada7c49882e619f32f33be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5facc37268ab2ca3764969f534246d') in 0.055991 seconds 
+  Import took 0.060208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallI.png
+  artifactKey: Guid(5371000abcd6b604eb2599087ec77afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallI.png using Guid(5371000abcd6b604eb2599087ec77afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b044a83ebdd7688198c1f4fa0ab96d8b') in 0.053536 seconds 
+  Import took 0.072251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallI.png
+  artifactKey: Guid(0a537e5c16750b04f83034110cdc3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallI.png using Guid(0a537e5c16750b04f83034110cdc3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93916ba849180ba38796de51c83e4243') in 0.064270 seconds 
+  Import took 0.068203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_fat_darkh.png
+  artifactKey: Guid(a606adeed4d0e88438c21bbe02337491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_fat_darkh.png using Guid(a606adeed4d0e88438c21bbe02337491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4199786a85bdbe1a583b39d40803c12') in 0.041394 seconds 
+  Import took 0.045364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeD.png
+  artifactKey: Guid(26f2c39b2968c974abcc3ecddb8b462e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeD.png using Guid(26f2c39b2968c974abcc3ecddb8b462e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901cfa92634744c0f61489ab65811f88') in 0.055552 seconds 
+  Import took 0.059596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineDefaultA.png
+  artifactKey: Guid(e6d7b8b6455cb10429cdcc151a7a1531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineDefaultA.png using Guid(e6d7b8b6455cb10429cdcc151a7a1531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ced2a5619738c528c920b49cfa984db') in 0.053403 seconds 
+  Import took 0.076961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallA.png
+  artifactKey: Guid(6f8d8c0b3c527a54284b55c57f1abc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallA.png using Guid(6f8d8c0b3c527a54284b55c57f1abc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541106f4c94b0157c5ccf919efe95c5f') in 0.093434 seconds 
+  Import took 0.097196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallFlatC.png
+  artifactKey: Guid(42ce8a67c507fca48b44e709e18b93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallFlatC.png using Guid(42ce8a67c507fca48b44e709e18b93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4f030cae02fe576e50ac4220f523ad') in 0.072126 seconds 
+  Import took 0.076048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_column.png
+  artifactKey: Guid(eeec07f9210014e4b9adc5b435bbe07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_column.png using Guid(eeec07f9210014e4b9adc5b435bbe07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa01f75d4857b4654f273ae104778e0') in 0.054646 seconds 
+  Import took 0.058733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallH.png
+  artifactKey: Guid(8d7c3b17e088a3a4f8810bc0cd73c649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallH.png using Guid(8d7c3b17e088a3a4f8810bc0cd73c649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87290cb9fc63908e15289e0c3d8a3955') in 0.042155 seconds 
+  Import took 0.046221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallB.png
+  artifactKey: Guid(b47bf37e7031be4498a4995ad1be387b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallB.png using Guid(b47bf37e7031be4498a4995ad1be387b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c570f289afb92ebf0f1cb30abffa2a5e') in 0.046210 seconds 
+  Import took 0.050099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallFlatA.png
+  artifactKey: Guid(267c89831802c05478c2f20705c4327b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallFlatA.png using Guid(267c89831802c05478c2f20705c4327b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7759bdfd7b2a96e76d77b12122ca8372') in 0.060253 seconds 
+  Import took 0.092424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_plateau_fall.png
+  artifactKey: Guid(83d0ee7523e93ee47b46c420e58487dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_plateau_fall.png using Guid(83d0ee7523e93ee47b46c420e58487dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7cf26501dcdbc2e5b63d801feabd94f') in 0.082781 seconds 
+  Import took 0.102491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stump_roundDetailed.png
+  artifactKey: Guid(78f13aa5922c1fb4f98de4fdbb84fc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stump_roundDetailed.png using Guid(78f13aa5922c1fb4f98de4fdbb84fc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2342005c1f00e83d1f3189d010d42db') in 0.106879 seconds 
+  Import took 0.110890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_largeE.png
+  artifactKey: Guid(2d44855da2002c3498914a48759a514e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_largeE.png using Guid(2d44855da2002c3498914a48759a514e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f711ca0244be4e02d148dec47001034') in 0.032379 seconds 
+  Import took 0.037105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallFlatB.png
+  artifactKey: Guid(2d4b7b99b0666a648832c3b3720c6b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallFlatB.png using Guid(2d4b7b99b0666a648832c3b3720c6b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ed25eac91b8f5a0069f8453c3e57b9') in 0.047476 seconds 
+  Import took 0.073451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_plateau.png
+  artifactKey: Guid(0deac46ae48ac1e41bcff894ae922e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_plateau.png using Guid(0deac46ae48ac1e41bcff894ae922e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d444cb242bfa8b881256a1e416d5cb') in 0.032232 seconds 
+  Import took 0.046907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_smallE.png
+  artifactKey: Guid(b4b8cafc7b8c5e84dbbe69c8a5bd3b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_smallE.png using Guid(b4b8cafc7b8c5e84dbbe69c8a5bd3b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f921d64e8e1e0a80ed7b41455e5703') in 0.078861 seconds 
+  Import took 0.092791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_smallE.png
+  artifactKey: Guid(0419086adb3e0b8439d7bb09beb1e36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_smallE.png using Guid(0419086adb3e0b8439d7bb09beb1e36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad6c583d21f2c4c4d2e1d116fe8d2f6') in 0.055045 seconds 
+  Import took 0.059039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallG.png
+  artifactKey: Guid(ce7581b1a80eb374bb5780a5d03ca902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallG.png using Guid(ce7581b1a80eb374bb5780a5d03ca902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1d836556d95cb48908b1f36e00eb54') in 0.043745 seconds 
+  Import took 0.048185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineTallD.png
+  artifactKey: Guid(09186f0e3c4ba624eb9d13fc5c38e6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineTallD.png using Guid(09186f0e3c4ba624eb9d13fc5c38e6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d436d9da3173a723ebcaa2f8dd5504a') in 0.033294 seconds 
+  Import took 0.046961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineGroundA.png
+  artifactKey: Guid(4718ad608f9a1a14684ee99254e4e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineGroundA.png using Guid(4718ad608f9a1a14684ee99254e4e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02c879aee4cbf152b6847ecc7d5ac19') in 0.062623 seconds 
+  Import took 0.073433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/statue_ring.png
+  artifactKey: Guid(19a743794857aa34f93c6c6b16be7eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/statue_ring.png using Guid(19a743794857aa34f93c6c6b16be7eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4145a40d6a6448260e7e4aa9326bc88a') in 0.051656 seconds 
+  Import took 0.056665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_fat.png
+  artifactKey: Guid(ecac83fb23ccec04383903348a0e8345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_fat.png using Guid(ecac83fb23ccec04383903348a0e8345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9278107902d722985ba2f18ce59af3a1') in 0.032191 seconds 
+  Import took 0.047012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_thin.png
+  artifactKey: Guid(5d96b3e66639a854abca65ab1876f224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_thin.png using Guid(5d96b3e66639a854abca65ab1876f224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d04f2be16607a0afa9ac84f897abec') in 0.070031 seconds 
+  Import took 0.086487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/sign.png
+  artifactKey: Guid(dca5e841240ea5d4cb708657322fa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/sign.png using Guid(dca5e841240ea5d4cb708657322fa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '823c4aa564d03ee692fbbdab2aa96afe') in 0.039932 seconds 
+  Import took 0.045388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.837062 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/tree_pineSmallB.png
+  artifactKey: Guid(57954851744c91442bbae09b082d516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/tree_pineSmallB.png using Guid(57954851744c91442bbae09b082d516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cdfbad096c3df2977d11ffb2344e8f') in 0.303412 seconds 
+  Import took 0.309208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.297032 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/stone_tallC.png
+  artifactKey: Guid(389a7832dc70c864fb6b260060fe03e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/stone_tallC.png using Guid(389a7832dc70c864fb6b260060fe03e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4547a0ae1de5a8e5bf38e3dac8d7e4fe') in 0.024928 seconds 
+  Import took 0.057060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.154833 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/crop_pumpkin.png
+  artifactKey: Guid(7ef0f362a0341bf4a9ae38446504913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/crop_pumpkin.png using Guid(7ef0f362a0341bf4a9ae38446504913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9909a3491b5da09297e6eebb0826553') in 0.045354 seconds 
+  Import took 0.074149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.291898 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/crops_wheatStageA.png
+  artifactKey: Guid(0bfc24b5bed56fc4a8ea2ae1150c6bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/crops_wheatStageA.png using Guid(0bfc24b5bed56fc4a8ea2ae1150c6bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a091589ede7bf5fa51b0e388b69b7260') in 0.058487 seconds 
+  Import took 0.063697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.865194 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/fence_simple.png
+  artifactKey: Guid(86a818316e3d5854ebf78c9b836ca20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/fence_simple.png using Guid(86a818316e3d5854ebf78c9b836ca20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5076adf12dc5dcfe7fb8b457e6d3faed') in 0.035103 seconds 
+  Import took 0.041916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007449 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/fence_simple.png
+  artifactKey: Guid(86a818316e3d5854ebf78c9b836ca20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/fence_simple.png using Guid(86a818316e3d5854ebf78c9b836ca20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5076adf12dc5dcfe7fb8b457e6d3faed') in 0.019589 seconds 
+  Import took 0.027817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.665157 seconds.
+  path: Assets/Ayudantia/Iconos_Modelos/rock_tallG.png
+  artifactKey: Guid(440044ac0f273c14eb18daaf827d724e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ayudantia/Iconos_Modelos/rock_tallG.png using Guid(440044ac0f273c14eb18daaf827d724e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb2f8caa6a67bdedc1b60d2bdd9f3a6') in 0.075645 seconds 
+  Import took 0.082253 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2850.
+Total: 14.687300 ms (FindLiveObjects: 0.357900 ms CreateObjectMapping: 0.143700 ms MarkObjects: 14.131800 ms  DeleteObjects: 0.052300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 869.004584 seconds.
+  path: Assets/Script/DesctivarAlIniciar.cs
+  artifactKey: Guid(d2c43c34333a2d041bfe5c0d9c94b618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/DesctivarAlIniciar.cs using Guid(d2c43c34333a2d041bfe5c0d9c94b618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f64f1f14f3608323aba677acd092e19') in 0.011417 seconds 
+  Import took 0.024722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005651 seconds.
+  path: Assets/Script/DesctivarAlIniciar.cs
+  artifactKey: Guid(d2c43c34333a2d041bfe5c0d9c94b618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/DesctivarAlIniciar.cs using Guid(d2c43c34333a2d041bfe5c0d9c94b618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f64f1f14f3608323aba677acd092e19') in 0.006121 seconds 
+  Import took 0.012018 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005462 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.825 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1826ms)
+		BeginReloadAssembly (251ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (166ms)
+		EndReloadAssembly (1503ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (319ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (683ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (137ms)
+				ProcessInitializeOnLoadAttributes (527ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.0 MB.
+System memory in use after: 105.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2854.
+Total: 4.637100 ms (FindLiveObjects: 0.418500 ms CreateObjectMapping: 0.192700 ms MarkObjects: 3.974200 ms  DeleteObjects: 0.036500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005116 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.814 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1814ms)
+		BeginReloadAssembly (210ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (1261ms)
+			LoadAssemblies (170ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (355ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (554ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (178ms)
+				ProcessInitializeOnLoadAttributes (357ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.1 MB.
+System memory in use after: 105.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2857.
+Total: 3.580000 ms (FindLiveObjects: 0.246400 ms CreateObjectMapping: 0.109100 ms MarkObjects: 3.204700 ms  DeleteObjects: 0.018300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

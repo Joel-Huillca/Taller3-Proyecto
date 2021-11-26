@@ -8,11 +8,14 @@ public class Objecto_Desac_Activ : MonoBehaviour
     public GameObject objectoActivado1;
     public GameObject objectoDesactivado2;
     public GameObject objectoDesactivado3;
+    public GameObject objectoDesactivado4;
+   
     void Start()
     {
         objectoActivado1.SetActive(true);
         objectoDesactivado2.SetActive(false);
         objectoDesactivado3.SetActive(false);
+        objectoDesactivado4.SetActive(false);
     }
 
  
@@ -26,5 +29,11 @@ public class Objecto_Desac_Activ : MonoBehaviour
             objectoActivaDesact.SetActivate(true);
         }
     */
+
+
+
+
+
+
     }
 }

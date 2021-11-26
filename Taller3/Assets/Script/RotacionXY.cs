@@ -37,6 +37,51 @@ public class RotacionXY : MonoBehaviour
         //initialize the max and min value when starting
         // Add a listener to the slider when value is changed
 
+/*
+        scaleSlider = GameObject.Find("SliderR").GetComponent<Slider>();
+        scaleSlider.minValue = scaleMinValue;
+        scaleSlider.maxValue = scaleMaxValue;
+
+        scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
+
+
+        rotateSlider = GameObject.Find("SliderX").GetComponent<Slider>();
+        rotateSlider.minValue = rotMinValueX;
+        rotateSlider.maxValue = rotMaxValueX;
+
+        rotateSlider.onValueChanged.AddListener(RotateSliderUpdate_Y);
+
+        //rotateSlider.onValueChanged.AddListener();
+        //float value1 = rotateSlider.onValueChanged;
+
+
+        
+        rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();
+        rotateSliderY.minValue = rotMinValueY;
+        rotateSliderY.maxValue = rotMaxValueY;
+
+        rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate);
+    */
+
+
+        //rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate_X_Y_);
+
+        
+        //float value2 = rotateSliderY.onValueChanged;
+
+    }
+    /*
+    void Update() {
+        
+        void RotateSliderUpdate_X_Y_(float rotateSliderY, float rotateSlider)
+        {
+            transform.localEulerAngles = new Vector3(rotateSliderY, rotateSlider, transform.rotation.z);
+        }
+    }
+    
+    */
+    void Update() {
+        
         scaleSlider = GameObject.Find("SliderR").GetComponent<Slider>();
         scaleSlider.minValue = scaleMinValue;
         scaleSlider.maxValue = scaleMaxValue;
@@ -51,18 +96,17 @@ public class RotacionXY : MonoBehaviour
         rotateSlider.onValueChanged.AddListener(RotateSliderUpdate_Y);
 
         
+
+
+        
         rotateSliderY = GameObject.Find("SliderY").GetComponent<Slider>();
         rotateSliderY.minValue = rotMinValueY;
         rotateSliderY.maxValue = rotMaxValueY;
 
         rotateSliderY.onValueChanged.AddListener(RotateSliderUpdate);
-
         
-        
-
     }
 
-    
 
         
 
@@ -72,18 +116,22 @@ public class RotacionXY : MonoBehaviour
         transform.localScale = new Vector3(value, value, value);
     }
 
+
+
+    
     void RotateSliderUpdate(float value)
     {
         transform.localEulerAngles = new Vector3(value, transform.rotation.y, transform.rotation.z);
     }
+
 
     
     void RotateSliderUpdate_Y(float value)
     {
         transform.localEulerAngles = new Vector3(transform.rotation.x, value, transform.rotation.z);
     }
-        
-
+    
+    
 
     
 
