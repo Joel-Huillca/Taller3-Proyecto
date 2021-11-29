@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CambioColor : MonoBehaviour
 {
-    
+    /*Camcio de color (touch) para un objecto*/
     public Renderer cubeRenderer;
 
     public Color[] colors; //Se almacena los Colores, los colores aleatorios que se iran colocando

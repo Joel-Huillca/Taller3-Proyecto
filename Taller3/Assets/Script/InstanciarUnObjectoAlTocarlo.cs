@@ -11,26 +11,30 @@ using UnityEngine.XR.ARSubsystems;
 
 public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
 {
-    public GameObject objectCuadroTxt;//____________"Detectando plano"_____________
-    public GameObject objectToPlace;
-    public GameObject placementIndicator;
+                    //Sript:
+    /*Detección de plano + cuadro Emergente*/
+    /*Se instancia un objecto al apretar la pantalla*/
+    /*Sonido al instanciar un objecto*/
     
-    private ARRaycastManager _arRaycast;
-    private Pose _placementPose;
-    private bool _placementPoseIsValid = false;
-    private bool _isPlace;
-    public TextMeshProUGUI debugText;
-    public Camera cam;
+
+    public GameObject audioInico;//             (Audio_1)
+    public GameObject objectCuadroTxt;//   ~(Detectando plano)~
+    public GameObject objectToPlace;//          (Obejto)
+    public GameObject placementIndicator;//  (Plano indicador)
+    
+    private ARRaycastManager _arRaycast;//(Lista-Guarda los rayos)
+    private Pose _placementPose;//    (Posición donde se instanciara)
+    private bool _placementPoseIsValid = false;// (Dato: true o false)
+    private bool _isPlace;//              (Plano activado: true o false)
+
+    //public TextMeshProUGUI debugText;//    (Cuadro: nos indica la posic)
+    public Camera cam;// (Camara)
 
     private void Start()
     {
+        objectToPlace.SetActive(false);//_____(-)
+        audioInico.SetActive(false);
         _arRaycast = FindObjectOfType<ARRaycastManager>();
-
-
-        
-        //objectCuadroTxt.SetActive(true);
-        //_____________________________________________
-
     }
 
     private void Update()
@@ -39,10 +43,10 @@ public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
         {
             UpdatePlacementPose();
             UpdatePlacementIndicator();
-            
+
         }
 
-        //_________Solo aparece el cuadro cuando el indicador es desaparece___________
+        //_________Solo aparece el cuadro cuando el indicador desaparece___________
         objectCuadroTxt.SetActive(true);
 
         if(_placementPoseIsValid){
@@ -55,17 +59,26 @@ public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
             PlaceObject();
             _isPlace = true;
             placementIndicator.SetActive(false);
+
+            //___________(audio)___________
+            audioInico.SetActive(true);
+            //_____________________________
+
+
         }
 
-        debugText.text = cam.transform.rotation.ToString();
-        Debug.Log(cam.transform.rotation.ToString());
+        //debugText.text = cam.transform.rotation.ToString();
+        //Debug.Log(cam.transform.rotation.ToString());
     }
-
-    private void PlaceObject()
+    
+    private void PlaceObject()          /*Instanciamos el objecto*/
     {
-        Instantiate(objectToPlace, _placementPose.position, _placementPose.rotation);
+        objectToPlace.SetActive(true);//_____(-)
+        //Instantiate(objectToPlace, _placementPose.position, _placementPose.rotation);
+        Instantiate(objectToPlace, placementIndicator.transform.position, placementIndicator.transform.rotation); // _-_
     }
 
+    /*Activamos o Descativamos el "Plano Indicator"*/
     private void UpdatePlacementIndicator()
     {
         if (_placementPoseIsValid)
@@ -79,6 +92,7 @@ public class InstanciarUnObjectoAlTocarlo : MonoBehaviour
         }
     }
 
+    /*Posición del plano, sacado desde la camara*/
     private void UpdatePlacementPose()
     {
         var screenCenter = new Vector2 (Screen.width / 2f, Screen.height / 2f);
